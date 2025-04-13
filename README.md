@@ -66,4 +66,3 @@ It also visualizes PCA components to show how the data distributes across dimens
 - Features selected by Boruta and RFE
 - Classification reports for each method
 - PCA variance explained
-- 2D scatter plot of PCA components
